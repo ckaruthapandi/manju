@@ -6,4 +6,4 @@ do
 sum=$(( $sum + $i))
 done
 echo "sum $sum"
-
+echo "ooooooooooooooooo"
